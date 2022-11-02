@@ -1,0 +1,20 @@
+.testi-content p {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+#logo .standard-logo {
+  height: 5vw !important;
+  padding: 1vw !important;
+}
+
+.about-us-section {
+  background: #fff;
+}
+
+.about-us-section img {
+  width: 100%;
+}
+
+.about-us-2-container {
+  margin-bottom: 50px;
+}
