@@ -1,3 +1,7 @@
+:root {
+  --pri-color: #d6282d;
+}
+
 .testi-content p {
   font-family: "Montserrat", sans-serif !important;
 }
@@ -17,4 +21,22 @@
 
 .about-us-2-container {
   margin-bottom: 50px;
+}
+
+.owl-carousel .owl-dots .owl-dot,
+.owl-carousel .owl-nav [class*="owl-"]:hover,
+.top-cart-number::before {
+  background-color: var(--pri-color) !important;
+}
+
+.entry-title h3 a:hover,
+.product-title h3 a:hover,
+.single-product .product-title h2 a:hover,
+.product-price ins,
+.header-extras li .he-text span {
+  color: var(--pri-color);
+}
+
+a:hover {
+  color: var(--pri-color);
 }
