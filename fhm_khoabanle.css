@@ -29,6 +29,8 @@
   background-color: var(--pri-color) !important;
 }
 
+.menu-item:hover > .menu-link,
+.sub-menu-container .menu-item:hover > .menu-link,
 .entry-title h3 a:hover,
 .product-title h3 a:hover,
 .single-product .product-title h2 a:hover,
